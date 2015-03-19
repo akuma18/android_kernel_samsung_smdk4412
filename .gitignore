@@ -76,6 +76,19 @@ GRTAGS
 GSYMS
 GTAGS
 
+drivers/tty/vt/consolemap_deftbl.c
+drivers/tty/vt/defkeymap.c
+firmware/epen/W8501.bin.gen.S
+firmware/epen/W8501_P48.bin.gen.S
+firmware/tsp_atmel/mXT540E.fw
+firmware/tsp_atmel/mXT540E.fw.gen.S
+kernel/timeconst.h
+lib/crc32table.h
+lib/gen_crc32table
+security/selinux/av_permissions.h
+security/selinux/flask.h
+
+
 *.orig
 *~
 \#*#
